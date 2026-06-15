@@ -1,4 +1,4 @@
-# 🧵 Elfy - Patronaje Digital Industrial
+# 🧵 patrep- Patronaje Digital Industrial
 
 Aplicación Flutter para diseño y cálculo automático de patrones de costura con medidas personalizadas.
 
