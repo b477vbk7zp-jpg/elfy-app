@@ -1,4 +1,4 @@
-# 🧵 patrep- Patronaje Digital Industrial
+# 🧵 patrep- Patronaje Digital 
 
 Aplicación Flutter para diseño y cálculo automático de patrones de costura con medidas personalizadas.
 
